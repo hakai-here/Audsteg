@@ -13,7 +13,7 @@ def cls():
   os.system("clear")
 def help():
   print("\033[92mExtract Your Secret Message from Audio Wave File.\033[0m")
-  print ('''usage: ExWave.py [-h] [-f AUDIOFILE]
+  print ('''usage: Audspy_ext.py [-h] [-f AUDIOFILE]
 
 optional arguments:
   -h, --help    show this help message and exit
