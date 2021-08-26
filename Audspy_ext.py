@@ -21,7 +21,7 @@ optional arguments:
   
 def banner():
     print ('''
-[20:17] 20BCY10007
+
     
                                                                  
                                                                  
