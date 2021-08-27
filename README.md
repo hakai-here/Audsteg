@@ -14,7 +14,7 @@ cd Audsteg
 python3 Audsteg.py
 ```
 
- <h2> Audspy </h2>
+ <h2> Audspy:</h2>
  
  
 <b></i>Simple audio steganography tool<b></i>
