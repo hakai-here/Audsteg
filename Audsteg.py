@@ -73,7 +73,7 @@ def encryptmenu():
 
                         Help Menu:
 
-                filename <filename>  <-- to set the file to be encoded
+                file <filename>  <-- to set the file to be encoded
                 run                  <-- to encrypt the audio file
 
                  """)
