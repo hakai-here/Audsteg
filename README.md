@@ -6,13 +6,13 @@ Audsteg turns an audio file into encrypted text and then decrypts the encrypted 
 
 <h1> Steps to work: </h1>
 
-```markdown
+```
 pip3 install cryptography
 git clone https://github.com/d8rkmind/Audsteg.git
 
 cd Audsteg
 python3 Audsteg.py
-```markdown
+```
 
  <h2> Audspy </h2>
  
@@ -23,9 +23,9 @@ Audspy will hide the plain text inside the given audiofile.
 
 <h2> Hidding using Audspy: </h2>
 
-```markdown
+```
 Audspy_hid.py [-h] [-f AUDIOFILE] [-m SECRETMSG] [-o OUTPUTFILE]
-```markdown
+```
 
 option|usage
 ------|-----
@@ -35,7 +35,7 @@ option|usage
  
  <h2> Extracting using Audspy: </h2>
  
- ```markdown
+ ```
  Audspy_ext.py [-h] [-f AUDIOFILE]
- ```markdown
+ ```
  -f is to specify the audio file 
