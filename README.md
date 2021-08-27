@@ -14,7 +14,8 @@ cd Audsteg
 python3 Audsteg.py
 ```
 
-<h1> Audspy </h2>
+ Audspy 
+ ----
 <b></i>Simple audio steganography tool<b></i>
 
 Audspy will hide the plain text inside the given audiofile.
