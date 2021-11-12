@@ -1,7 +1,7 @@
 <h1> Audsteg </h1>
 <b><i>Simple audio cryptography tool</i></b>
 
-Nitya, Mahendra, Anand, Kushagra, Shoab, and Syam are the creators of this project.<br>
+Nitya Nand Jha, Mahendra Kumar, C Sai Anand, Kushagra Pandey, Mohd. Shoab, and Syam SV are the creators of this project.<br>
 Audsteg turns an audio file into encrypted text and then decrypts the encrypted text, returning the original audio as output.
 
 <h1> Steps to work: </h1>
