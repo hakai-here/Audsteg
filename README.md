@@ -21,7 +21,7 @@ python3 Audsteg.py
 
 Audspy will hide the plain text inside the given audiofile.
 
-<h2> Hidding using Audspy: </h2>
+<h2> Hiding using Audspy: </h2>
 
 ```
 Audspy_hid.py [-h] [-f AUDIOFILE] [-m SECRETMSG] [-o OUTPUTFILE]
